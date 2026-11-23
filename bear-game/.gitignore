@@ -1,0 +1,11 @@
+# зависимости
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# прочее
+.DS_Store
+*.log
+*.tsbuildinfo

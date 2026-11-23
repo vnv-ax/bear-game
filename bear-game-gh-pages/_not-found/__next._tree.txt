@@ -1,0 +1,4 @@
+:HL["/bear-game/_next/static/chunks/11_xoz8do9ywk.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"sXkr55-xiTfDiMzIPYAfh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
